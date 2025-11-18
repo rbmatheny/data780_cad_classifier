@@ -39,10 +39,10 @@ NN_traceparts          | 0.95     | 0.96            | 0.96         | 0.95
 COMPUTATIONAL METRICS
 
 Dataset                | Training Time (sec) | Inference Time (sec) | Trainable Params | Total Params
------------------------|----------------------|------------------------|-------------------|--------------
-NN_models.ipynb        | 0.3339               | 0.0400                 | 132,103           | 396,311
-NN_models_randomized   | 0.3339               | 0.0400                 | 132,103           | 396,311
-NN_traceparts          | 0.50 (example)       | 0.06 (example)         | 132,103           | 396,311
+-----------------------|---------------------|----------------------|------------------|--------------
+NN_models.ipynb        | 0.3339              | 0.0400               | 132,103          | 396,311
+NN_models_randomized   | 0.3339              | 0.0400               | 132,103          | 396,311
+NN_traceparts          | 0.5233              | 0.0523               | 139,846          | 416,540
 
 ## Getting Started
 
